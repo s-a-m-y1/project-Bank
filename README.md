@@ -40,8 +40,3 @@ A **console-based banking management system** developed in **C++** that allows m
 - 📜 Add transaction history tracking.
 
 ---
-
-## 📂 How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/YourUsername/project-Bank.git
